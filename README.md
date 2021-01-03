@@ -23,5 +23,4 @@ The handwritten digit recognition system is a way to tackle this
 problem which uses the image of a digit and recognizes the
 digit present in the image.
 
-![Demo of this project](digit.mp4)
-
+![](digit_demo.gif)
